@@ -26,7 +26,7 @@
 - 
 - 📫 How to reach me: **edgar.setyan23@gmail.com**
 - 
-- ⚡ Fun fact: I have been coding since I was 14!
+- ⚡ Fun fact: My dream project is to build an AI that can generate the perfect playlist for any mood.
 
 
 <h3 align="left">Connect with me:</h3>
