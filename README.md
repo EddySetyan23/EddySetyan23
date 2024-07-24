@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Edgar Setyan</h1>
-<h3 align="center">🎓 Recent Computer Science Graduate from Canada | 💻 Aspiring Software Engineer</h3>
+<h3 align="center">Recent Computer Science Grad & Aspiring Software Engineer</h3>
 
 ### 🚀 Featured Projects
 
@@ -20,13 +20,14 @@
    - Technologies: Python, pandas, scikit-learn, Yahoo Finance API
    - [View Project](https://github.com/EddySetyan23/data-mining-project)
 
-- 🌱 I’m currently learning **Advanced React patterns, Cloud computing with AWS, Machine Learning algorithms**
-
+- 🌱 I’m currently learning React performance optimization, Cloud computing with AWS, and Machine Learning algorithms.
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/EddySetyan23](https://github.com/EddySetyan23)
+- 
+- 📫 How to reach me: **edgar.setyan23@gmail.com**
+- 
+- ⚡ Fun fact: I have been coding since I was 14!
 
-- 📫 How to reach me **edgar.setyan23@gmail.com**
-
-- ⚡ Fun fact **I have been coding since I was 14**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
