@@ -3,7 +3,22 @@
 <h1 align="center">Hi 👋, I'm Edgar Setyan</h1>
 <h3 align="center">🎓 Recent Computer Science Graduate from Canada | 💻 Aspiring Software Engineer</h3>
 
-- 🔭 I’m currently working on **Personal Portfolio Website**
+### 🚀 Featured Projects
+
+1. **Personal Portfolio Website**
+   - A responsive website built with Next.js and Tailwind CSS
+   - Technologies: React, Next.js, Tailwind CSS
+   - [View Project](https://github.com/EddySetyan23/portfolio-website)
+
+2. **Task Management System**
+   - Full-stack app using Spring Boot and React
+   - Technologies: Java, Spring Boot, React, PostgreSQL
+   - [View Project](https://github.com/EddySetyan23/task-management-system)
+
+3. **Data Mining Project**
+   - Python-based project using pandas and scikit-learn
+   - Technologies: Python, pandas, scikit-learn, Yahoo Finance API
+   - [View Project](https://github.com/EddySetyan23/data-mining-project)
 
 - 🌱 I’m currently learning **Advanced React patterns, Cloud computing with AWS, Machine Learning algorithms**
 
@@ -15,9 +30,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edgar-setyan-809bb0170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-setyan-809bb0170/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/edgar_setyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/edgar_setyan/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/user2986fq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user2986fq/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edgar-setyan-809bb0170/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edgar-setyan-809bb0170/" height="30" width="40" /></a>
+<a href="https://instagram.com/edgar_setyan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/edgar_setyan/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/user2986fq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/user2986fq/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
