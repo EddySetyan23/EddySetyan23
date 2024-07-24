@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Edgar Setyan</h1>
 <h3 align="center">🎓 Recent Computer Science Graduate from Canada | 💻 Aspiring Software Engineer</h3>
