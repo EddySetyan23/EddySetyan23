@@ -8,7 +8,7 @@
 1. **Personal Portfolio Website**
    - A responsive website built with Next.js and Tailwind CSS
    - Technologies: React, Next.js, Tailwind CSS
-   - [View Project](https://github.com/EddySetyan23/portfolio-website)
+   - [View Project](https://github.com/EddySetyan23/edgar-portfolio)
 
 2. **Task Management System**
    - Full-stack app using Spring Boot and React
