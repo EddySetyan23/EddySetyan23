@@ -13,7 +13,7 @@
 2. **Task Management System**
    - Full-stack app using Spring Boot and React
    - Technologies: Java, Spring Boot, React, PostgreSQL
-   - [View Project](https://github.com/EddySetyan23/task-management-system)
+   
 
 3. **Data Mining Project**
    - Python-based project using pandas and scikit-learn
